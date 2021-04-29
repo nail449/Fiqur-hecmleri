@@ -1,0 +1,2 @@
+# Fiqur-hecmleri
+fiqurlar
